@@ -95,7 +95,7 @@ public class SybaseASEPlugin extends DefaultSessionPlugin {
      */
     @Override
     public String getVersion() {
-        return "0.05";
+        return "1.0";
     }
 
     /**
@@ -105,7 +105,7 @@ public class SybaseASEPlugin extends DefaultSessionPlugin {
      */
     @Override
     public String getAuthor() {
-        return "Ken McCullough, Guido Wojke";
+        return "luoliudan";
     }
 
     /**
